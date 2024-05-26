@@ -1,1 +1,15 @@
-Welcome To [95mBlack Jack![0m
+Welcome To [95mBlackJack![0m
+-> This Is a Terminal Based Black Jack Client. A Very Simple Way To Play!
+-> Rules,
+- your objective is to get the sum of your cards to 21,
+  you can get closer to it on the lowerside, but as soon as you get over 21 you loose!
+- after betting an amount, you are given 2 cards, and so is the dealer, but you can only see the dealers first card.
+- you can choose to hit (/h) or stand (/s)
+  hitting will allow you to choose another card to bring you closer to the sum of 21
+  standing will allow you to stand on your position and wait for the dealers sum of cards.
+  you want to stand when you are confident enough your sum is greater than the dealers
+- if you win you will recieve the amount you you bet + the dealers matched amount (bet = 10, recieved = 20)
+  you will also recieve exp, which will contribute to levels, upon higher levels, you will unlock perks like insurance and dub_exp
+- if you loose, you will loose the amount you bet only and you will loose an exp point, THEY CAN GO NEGATIVE!
+Have Fun!
+
